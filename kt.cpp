@@ -4,7 +4,7 @@
 #include "iostream"
 using namespace std;
 
-int main()
+void main()
 {
 	int a[30], n=0, x;
 	while(n<=0 || n>=30);
